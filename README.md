@@ -5,6 +5,8 @@ This cheat sheet was created as a personal reference while learning embedded sys
 I’m not a professional firmware engineer — just an enthusiast collecting the explanations and examples I wish I had when I started.
 It currently focuses on core bare‑metal concepts, and may later be expanded with topics such as interrupts (IRQ).
 
+Note: GitHub may not preview these PDF files, but they can be downloaded and viewed normally.
+
 ## Overview
 This document summarizes some of the most commonly used patterns, keywords, and techniques in bare‑metal Embedded C.
 It is designed to be quick to read, easy to navigate, and practical for everyday development.
